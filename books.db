@@ -1,0 +1,7 @@
+# code for 16.4; will be used for 16.8
+CREATE TABLE books (id INTEGER PRIMARY KEY title TEXT, author TEXT, year INTEGER);
+
+INSERT INTO books VALUES (1, "Monday", "Jenny Cruz", "2024"); 
+
+
+INSERT INTO books VALUES (2, "Second class", "Robert Jay", "2013");
